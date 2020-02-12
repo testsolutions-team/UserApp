@@ -1,0 +1,6 @@
+.vscod
+bin
+obj
+*.db
+.vs
+*.txt
